@@ -20,8 +20,7 @@ Violations: DMCA + Legal Action
 
 # The Open University: Introduction to Cyber Security
 
-**Provider:** The Open University  
-**Date:** [Add completion date]  
+**Provider:** The Open University   
 **Duration:** 8 weeks, 3 hours per week
 
 ---
