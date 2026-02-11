@@ -1,20 +1,4 @@
-<!-- 
-COPYRIGHT © 2026 UHITO NETWORK
-Uhito Network Study
-
-PROTECTED CONTENT:
-- Volunteer recruitment methodology
-- Community protection frameworks
-- Safety training protocols
-- Legal risk management systems
-
-PERMISSIONS:
-- Individual volunteer consideration only
-- No reproduction, redistribution, or derivation
-- No organizational/commercial use without permission
-
-VIOLATIONS: DMCA + Legal Action
--->
+<!-- COPYRIGHT © 2026 UHITO NETWORK Uhito Network Study Repository Personal learning documentation. Free to view and fork. Do not claim certificates as your own. Do not use commercially without permission. VIOLATIONS: DMCA + Legal Action -->
 
 # Google IT Support Professional Certificate
 
