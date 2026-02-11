@@ -1,4 +1,23 @@
-<!-- COPYRIGHT © 2026 UHITO NETWORK Uhito Network Study Repository Personal learning documentation. Free to view and fork. Do not claim certificates as your own. Do not use commercially without permission. VIOLATIONS: DMCA + Legal Action -->
+text
+<!-- 
+COPYRIGHT © 2026 UHITO NETWORK
+Uhito Network Study Repository
+
+This repository documents personal learning and skill development.
+
+Contents:
+- Study notes
+- Course certificates
+- Learning projects
+- Technical documentation
+
+Permissions:
+- View and fork freely
+- Do not claim certificates as your own
+- No commercial use without permission
+
+Violations: DMCA + Legal Action
+-->
 
 # Google IT Support Professional Certificate
 
