@@ -41,3 +41,14 @@ If I can do it, you can too.
 ---
 
 *For verification or questions: uhitonetwork@gmail.com*
+
+
+
+---
+## 🔁 Uhito Network Lifecycle
+
+This repository is **Step 2: Study** – learning cybersecurity for free.
+
+🔍 [Research](https://github.com/UhitoNetwork/Uhito-Network-Research) → 📖 **[Study](https://github.com/UhitoNetwork/Uhito-Network-Study)** → ⚠️ [Awareness](https://github.com/UhitoNetwork/Uhito-Network-Cyber-Man-Awareness) → 🤝 [Volunteer](https://github.com/UhitoNetwork/Uhito-Network-Cyber-Man-Volunteer)
+
+See where the knowledge comes from and where it goes.
