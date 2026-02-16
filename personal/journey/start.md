@@ -16,3 +16,7 @@ To answer those questions, I had to understand threats. I started taking cyberse
 That question – *“What drives them?”* – became the seed of everything. It led me to study not just technology, but the human behind the screen. And it eventually grew into the Uhito Network.
 
 This journey started on September 19, 2021. It has never stopped.
+
+---
+
+**Next:** [Why I Learn – Understanding the Enemy to Protect](why-i-learn.md)
