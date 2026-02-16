@@ -19,3 +19,8 @@ Without documentation, you can get lost.
 This repository is my memory. Every file, every link, every mistake is saved. It's proof that I didn't just collect certificates – I learned.
 
 Documentation also protects me. If someone questions my knowledge, I can point to the work. If government needs proof, it's here. Documentation is my shield.
+
+---
+
+**Previous:** [Ethics Kept](ethics-kept.md)  
+**Next:** [Now – February 2026](now.md)
