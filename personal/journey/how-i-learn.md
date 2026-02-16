@@ -1,3 +1,14 @@
+<!-- 
+COPYRIGHT © 2026 UHITO NETWORK
+Uhito Network Study Repository – Personal Documentation
+
+Permissions:
+- View and fork freely for individual learning
+- Do not claim as your own
+- No commercial use without permission
+
+Violations: DMCA + Legal Action
+-->
 # How I Learn – From Unofficial to Official
 
 I started with YouTube – free, visual, community‑driven. I moved through tech forums, random websites, and shared knowledge from strangers online. That was my unofficial foundation.
