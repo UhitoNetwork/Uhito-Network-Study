@@ -1,3 +1,14 @@
+<!-- 
+COPYRIGHT © 2026 UHITO NETWORK
+Uhito Network Study Repository – Personal Documentation
+
+Permissions:
+- View and fork freely for individual learning
+- Do not claim as your own
+- No commercial use without permission
+
+Violations: DMCA + Legal Action
+-->
 # Why I Learn – Understanding the Enemy to Protect
 
 I learn because I want to fix.
