@@ -11,45 +11,35 @@ Violations: DMCA + Legal Action
 -->
 
 # 🇦🇺 Macquarie University — Cyber Skills Academy
-Mad by UhitoNetwork Founder
+Made by UhitoNetwork Founder
 
 ---
 
-## 🔍 Cyber Security: Essentials for Forensics Specialization
+## 📋 Certificate Record | 2025–2026
 
-**Courses completed:**
-- Cyber Security: Digital Forensics
-- Cyber Security: Mobile Security
-- Cyber Security: Application of AI
+### 🎓 Specializations
+- 🔍 Cyber Security: Essentials for Forensics Specialization
+- ⚖️ Cyber Security Manager Certificate (Governance, Risk & Compliance)
+- 🔐 Cyber Security: Data & Identity Security Specialization
+- ⚙️ Cyber Security: DevOps Specialization
+- 🧠 Cyber Security: Leaders Specialization
 
-**Topics covered:**
-- Digital investigation techniques
-- Mobile device forensics
-- AI applications in threat detection and analysis
-
----
-
-## ⚖️ Cyber Security: Essentials for Governance, Risk & Compliance Specialization
-
-**Courses completed:**
-- Governance
-- Risk Management and Compliance
-- Incident Response
-
-**Topics covered:**
-- Governance frameworks and global standards
-- Compliance obligations
-- Incident response leadership and organizational resilience
+### 📚 Individual Courses
+- 🆔 Cyber Security: Identity Access Management and Authentication
+- 🔄 Cyber Security: DevSecOps
+- 🔑 Cyber Security: Applied Cryptography
+- 🏢 Cyber Security: Essentials for Workplace
+- 🛡️ Cyber Security: Essentials
+- 👔 Cyber Security: Essentials for Managers and Leaders
+- 🚨 Cyber Security: Incident Response - Theory to Practice
 
 ---
 
-## 🤖 Cyber Security: Data, Privacy and AI Security Specialization
 
-**Topics covered:**
-- Data protection strategies
-- Global privacy compliance
-- AI system security
+THIS IS TO CERTIFY that the above-named individual has successfully completed the referenced training programs through Macquarie University's Cyber Skills Academy, pursuant to applicable educational standards and workforce development guidelines.
+
+The skills and competencies acquired through these programs constitute verified foundational qualifications in the field of cybersecurity.
 
 ---
 
-📌 *I completed these programs with Requist of the support of financial aid, as I faced money issues at the time. The knowledge and skills gained are real — and they form part of the foundation for my work today.*
+*This documentation serves as official verification of training completion.*
